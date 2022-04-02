@@ -4,7 +4,7 @@ Decentraland's Marketplace
 
 ## Frontend
 
-It can be found under [/webapp](https://github.com/decentraland/marketplace/tree/master/webapp).
+It can be found under [/webapp](https://github.com/galaxyglobespace/galaxymarket/tree/main/webapp).
 
 ## Backend
 
