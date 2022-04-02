@@ -8,7 +8,7 @@ It can be found under [/webapp](https://github.com/galaxyglobespace/galaxymarket
 
 ## Backend
 
-It can be found under [/indexer](https://github.com/decentraland/marketplace/tree/master/indexer).
+It can be found under [/indexer](https://github.com/galaxyglobespace/galaxymarket/tree/main/indexer).
 
 ## Copyright & License
 
